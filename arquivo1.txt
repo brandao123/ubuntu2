@@ -1,0 +1,10 @@
+echo iniciando a cópia...
+sudo cp -r /home/gabriel/Downloads /backup
+
+sudo cp -r /home/gabriel/Área\ de\ Trabalho /backup
+
+sudo cp -r /home/gabriel/Imagens /backup
+
+sudo cp -r /home/gabriel/Documentos /backup
+echo cópia terminada!
+
